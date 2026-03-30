@@ -1,6 +1,5 @@
 import torch
 import torch.nn as nn
-from models.module import *
 import torchvision.models as models
 import torch.nn.init as init
 
